@@ -5,7 +5,7 @@ http://www.elahmad.com/tv/m3u8/2ktv.m3u8?id=ktv3
 
 
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTINF:-1,Kurd goal
+#EXTINF:-1,Kurd oal
 http://95.170.215.118/hls/m3u8/FT-Sport-1.m3u8 
 
 #EXTINF:-1,Ezidxan

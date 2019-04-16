@@ -1,1 +1,203 @@
 # tva
+
+
+
+#EXTINF:-1,ch 11
+
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_1.8k/chunklist.m3u8
+
+
+https://kanlivep2event-i.akamaihd.net/hls/live/747610-b/747610/source1_4k/chunklist.m3u8
+
+
+#EXTINF:-1,ch 11
+
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_1.8k/chunklist.m3u8
+
+
+#EXTINF:-0,ch 33 
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_1.2k/chunklist.m3u8
+#EXTINF:-0,ch 33 1080 
+
+
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
+#EXTINF:0,qureen
+http://m.live.net.sa:1935/live/quran/chunklist_w1984188109.m3u8?v=1833100160
+
+#EXTINF:-0,MBC 1 hd
+http://stream1.orange.ps:1933/live/MBC-1/chunklist.m3u8
+
+#EXTINF:-0,MBC 2 hd
+http://stream1.orange.ps:1933/live/MBC-2/chunklist.m3u8
+
+#EXTINF:-0,MBC 3 hd
+http://stream1.orange.ps:1933/live/MBC-3/chunklist.m3u8
+
+#EXTINF:-1,MBC 4 HD
+http://stream1.orange.ps:1933/live/MBC-4/chunklist_w1316037165.m3u8
+
+#EXTINF:-0,MBC max hd
+http://stream1.orange.ps:1933/live/MBC-MAX/chunklist.m3u8
+
+#EXTINF:-0,MBC Bollywood hd
+http://stream1.orange.ps:1933/live/MBC-Bollywood/chunklist.m3u8
+
+#EXTINF:-0,MBC Action hd
+http://stream1.orange.ps:1933/live/MBC-Action/chunklist.m3u8
+
+#EXTINF:-0,ch 14 server 2
+http://nana10-hdl-il-sw.ctedgecdn.net/10tv_Desktop/index_2400.m3u8
+
+#EXTINF:-1,Rotana-Classic
+http://streaming.i-sat.tv:1935/livestream/rtca/chunklist_w1603695801.m3u8
+
+#EXTINF:-1, CBC Drama
+http://stream1.orange.ps:1935/tv/TVCBCDrama/playlist.m3u8
+
+#EXTINF:-1, TOKTOK-AFLAM
+http://95.170.215.124/live/disk1/TOKTOK-AFLAM/anevia1/TOKTOK-AFLAM.m3u8
+
+#EXTINF:0,Syria tv 1
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8
+
+#EXTINF:-0,sama tv
+http://streaming.i-sat.tv:8081/livestream/samatv/chunks.m3u8?
+
+#EXTINF:-1,LDC HD
+http://livecdnh2.tvanywhere.ae/hls/ldc/04.m3u8
+
+#EXTINF:-1,Nat Geo HD ar
+http://95.170.215.124/live/disk1/AD_Nat_Geo/anevia1/AD_Nat_Geo.m3u8
+
+#EXTINF:-0,ALJAZEERA (ARABIA)
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+
+#EXTINF:-0,tyor
+http://185.27.116.54:8081/livestream/toyourjanaa/chunks.m3u8
+
+#EXTINF:0,Toyor_Al_Janah
+http://95.170.215.124/live/disk1/Toyor_Al_Janah/anevia1/Toyor_Al_Janah.m3u8
+
+#EXTINF:-0,Wesal tv
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w1680220937.m3u8
+
+#EXTINF:0,ayat
+http://m.live.net.sa:1935/live/ayat/chunklist.m3u8
+
+#EXTINF:-1,Nat Geo HD
+http://stream1.orange.ps:1935/tv/ADNatGeo/playlist.m3u8
+
+#EXTINF:-0,ROTANA clasic
+http://streaming.i-sat.tv:1935/livestream/rtca/chunks.m3u8
+
+#EXTINF:-0,Rotana clip
+http://streaming.i-sat.tv:1935/livestream/rtcp/chunks.m3u8
+
+#EXTINF:-1,ROTANA AFLAM HD
+http://185.27.116.54:8081/livestream/rotanaaflamm/chunks.m3u8
+
+#EXTINF:-0,Rotana Drama
+http://streaming.i-sat.tv:1935/livestream/rotanamasr/chunklist_w2001224436.m3u8
+
+#EXTINF:-0,rotana khalijialive
+http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/chunks.m3u8
+
+#EXTINF:-0,24 music
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1521305784~acl=%2f*~data=hdntl~hmac=0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36&Cookie=hdntl%3Dexp%3D1521305784%7Eacl%3D%252f%2A%7Edata%3Dhdntl%7Ehmac%3D0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516
+
+#EXTINF:-0,ch 14
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+
+#EXTINF:-0,ch 14
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b2400000.m3u8
+
+#EXTINF:-0,hala-tv
+http://wowza.panet.co.il:1935/live/smil:halaTV.smil/chunklist_w1123935855_b850000_sleng.m3u8
+
+#EXTINF:0,  OTV Lebanon
+http://youness-export.com/tv/otv
+
+#EXTINF:0,QURAN
+http://m.live.net.sa:1935/live/quran/chunklist_w1693874055.m3u8
+
+#EXTINF:0,qureen (server 2)
+http://m.live.net.sa:1935/live/quran/chunklist.m3u8
+
+#EXTINF:-0,ch 13 server 2
+http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index.m3u8
+
+#EXTINF:-0,ch 14
+https://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b1000000.m3u8
+
+#EXTINF:-1,rotanaaflamm
+http://streaming.i-sat.tv:8081/livestream/rotanaaflamm/chunks.m3u8
+
+#EXTINF:-0,osn
+http://streaming.i-sat.tv:8081/livestream/osnm/chunks.m3u8
+
+#EXTINF:-0,teleliban
+http://streetok-001-site1.btempurl.com/lb/teleleb.php
+
+#EXTINF:-0, dmc dreame
+http://streaming.i-sat.tv:8081/livestream/dmcdrama/chunks.m3u8
+
+#EXTINF:-0,ROTANA music
+http://streaming.i-sat.tv:8081/livestream/rotanamusick/chunks.m3u8
+
+#EXTINF:0, M T V server
+http://185.27.116.54:8081/livestream/mtvv/chunks.m3u8
+
+#EXTINF:-0,Al Manar
+http://live2.mediaforall.net:1935/liveorigin/livestream_480p/chunklist_w1876837321.m3u8
+
+#EXTINF:-0,Al Manar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+
+#EXTINF:0,  nbn Lebanon
+http://youness-export.com/tv/nbn
+
+#EXTINF:-1,nilecinema
+http://streaming.i-sat.tv:8081/livestream/nilecinema/chunks.m3u8
+
+#EXTINF:-0,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-0,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:0, DMC
+http://streaming.i-sat.tv:8081/livestream/dmchd/chunks.m3u8
+
+#EXTINF:-1,ON  Sports
+http://185.27.116.54:1935/livestream/sno/chunklist_w1728236580.m3u8
+
+#EXTINF:-1,fox movies
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
+
+#EXTINF:0, Cihan
+http://cihan.teradek.live:1935/live/cihanhd/playlist.m3u8
+
+#EXTINF:0, New HD TV
+http://newline.teradek.live:1935/live/linehd/playlist.m3u8
+
+#EXTINF:-1,CBC+
+http://streaming.i-sat.tv:1935/live/cbcone/playlist.m3u8
+
+#EXTINF:-1,24 music
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1521305784~acl=%2f*~data=hdntl~hmac=0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36&Cookie=hdntl%3Dexp%3D1521305784%7Eacl%3D%252f%2A%7Edata%3Dhdntl%7Ehmac%3D0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516
+bb6057206493c8ea;_alid_%3DYrk%2B1GiREjTrEWpIW8Vc7Q%3D%3D
+
+#EXTINF:-1,МАТЧ 1
+http://persik.by/stream/2944/263250/10266.m3u8
+
+#EXTINF:-1,МАТЧ 2
+http://persik.by/stream/2944/263250/10267.m3u8
+
+#EXTINF:-1,МАТЧ 2
+http://persik.by/stream/2944/263250/10217.m3u8
+
+#EXTINF:-1,МАТЧ 3
+http://persik.by/stream/2944/263250/10218.m3u8
+
+#EXTINF:-1,МАТЧ 3
+http://persik.by/stream/2944/263250/10268.m3u8

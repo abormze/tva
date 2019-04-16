@@ -8,8 +8,6 @@ http://www.elahmad.com/tv/m3u8/2ktv.m3u8?id=ktv3
 #EXTINF:-1,Kurd goal
 http://95.170.215.118/hls/m3u8/FT-Sport-1.m3u8 
 
-#EXTINF:-1,Ezidxan
-http://167.86.73.59:8080/Ezidxan/Media-TV/index.m3u8
 
 #EXTINF:-1,Al-Fajer TV 1 |1080p|
 http://Ostora.hadi.im:8880/live/mtk18/uDl8OogaxR/514.ts

@@ -12,8 +12,6 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8
 #EXTINF:0, Alfajertv 4 
 http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8
-#EXTINF:0, Alfajertv 5 
-http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8
 #EXTINF:0, Raya TV 
 http://htvmada.mada.ps:8888/raya/playlist.m3u8
 #EXTINF:-0,ajeyel tv hd 
